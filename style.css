@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.background{
+	background-color: #56A661;
+}
+
+.vinyl {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.wakelogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar {
+	border: medium solid #161414;
+	background-color: #679BD8;
+	font-size: x-large;
+	font-weight: bold;
+
+}
+
+.maintext {
+	font-size: x-large;
+}
+
+.form{
+	background-color: #679BD8;
+	border-radius: 5px;
+	padding: 10px;
+	font-family: 'Consolas', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'Monaco', 'Courier New', monospace;
+	text-align: center;
+	font-weight: bold;
+}
+
+.inputbox{
+	border-radius: 20px;
+}
+
+@media handheld and (min-width:300px){
+}
+
