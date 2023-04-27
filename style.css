@@ -104,12 +104,12 @@ ul, li{
 
 .apple{
 	list-style-position: inside;
-	background-color: black;
+	background-color: rgb(50, 49, 49);
 	opacity: 0.8;
 }
 
 .apple a:link{
-	color: rgb(7, 7, 7);
+	color: rgb(187, 132, 30);
   background-color: transparent;
   text-decoration: none;
 }
